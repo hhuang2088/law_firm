@@ -1,0 +1,13 @@
+#contact {
+	border-top: 30px;
+	background-color: #D9D8D8;
+}
+
+.contact-card {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.bordered {
+	border-right: 1px dotted grey;
+}

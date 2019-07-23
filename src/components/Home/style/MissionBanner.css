@@ -1,0 +1,10 @@
+#mission-banner {
+	word-wrap: break-word;
+	overflow: visible;
+	background-color: #EEEEEE;
+}
+
+#promise {
+	border-right: 1px dotted grey;
+	padding-bottom: 50px;
+}

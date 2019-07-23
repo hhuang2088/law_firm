@@ -1,0 +1,15 @@
+#law-navbar {
+	padding-bottom: 35px;
+	background-color: #58614E;
+	height: 135px;
+	position: relative;
+}
+
+#logo {
+	margin-top: 50px;
+}
+
+.ui.menu .item {
+	color: #B8C6AC;
+	text-decoration: underline;
+}
